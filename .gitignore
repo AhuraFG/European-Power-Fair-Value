@@ -3,11 +3,9 @@ __pycache__/
 *.pyc
 .DS_Store
 .env
-.cursor/
+
 
 data/
 logs/
 
-# Submission artifacts (not pushed to GitHub)
-submission.csv
-SUBMISSION.md
+
