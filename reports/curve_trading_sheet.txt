@@ -1,0 +1,5 @@
+Curve – DE-LU
+Backtest: 62.8% hit on 43 directed.
+Next day (2026-01-01) expected avg: 96.84 EUR/MWh
+Next week (2025-12-25 to 2025-12-31) expected avg: 92.6 EUR/MWh
+Next month (2025-12) expected avg: 96.71 EUR/MWh

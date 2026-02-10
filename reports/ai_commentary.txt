@@ -1,0 +1,5 @@
+In the recent trading period from December 27 to December 31, 2025, the signals generated were predominantly neutral, with only one buy signal on December 30. The forecast accuracy was mixed; for instance, a buy signal on December 30 resulted in an actual value of 87.76, significantly lower than the forecasted 99.47, leading to a negative profit and loss (PnL) of -6.59. Over the entire period, the hit rate was 62.8%, indicating that only about two-thirds of the signals were correct.
+
+Analyzing the forecasting models used, Ridge Regression performed the best with an overall Mean Absolute Error (MAE) of 24.68 and Root Mean Squared Error (RMSE) of 34.21, followed closely by Random Forest with MAE at 25.16 and RMSE at 35.19. LightGBM had the lowest overall MAE at 22.55 but a higher tail MAE of 77.64, suggesting it might be less reliable for extreme values. The Seasonal Naive model, while having an overall MAE of 34.75 and RMSE of 51.48, showed a bias of 0.89, indicating its predictions were consistently higher than the actual values.
+
+Sources: reports/forecast_results.json, reports/curve_trading_sheet.json

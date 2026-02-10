@@ -1,0 +1,77 @@
+{
+  "narrative_metrics": {
+    "n_rows": 8760,
+    "expected_hours": 8760,
+    "actual_hours": 8760,
+    "missing_hours": 0,
+    "duplicates": 0,
+    "all_timestamps_present": true,
+    "dst_ok": true,
+    "dst_dates": [
+      "2025-03-30",
+      "2025-10-26"
+    ],
+    "price_n_negative": 576,
+    "price_pct_negative": 6.6,
+    "price_outlier_pct": 1.26,
+    "net_import_flatline_max_hours": 1,
+    "volatility_window_current": "2025-12-25 to 2025-12-31",
+    "volatility_window_prior": "2025-12-18 to 2025-12-24",
+    "volatility_std_current": 15.08,
+    "volatility_std_prior": 22.58,
+    "volatility_pct_change": -33.2
+  },
+  "dataset_stats": {
+    "n_rows": 8760,
+    "numeric": {
+      "price_eur_mwh": {
+        "min": -250.32,
+        "max": 583.4,
+        "p1": -18.8851,
+        "p99": 242.8362,
+        "pct_negative": 6.58,
+        "pct_zero": 0.89
+      },
+      "wind_onshore_MW": {
+        "min": 198.95,
+        "max": 45897.45,
+        "p1": 789.7708,
+        "p99": 38547.9505,
+        "pct_negative": 0.0,
+        "pct_zero": 0.0
+      },
+      "wind_offshore_MW": {
+        "min": 0.0,
+        "max": 7941.525,
+        "p1": 47.902,
+        "p99": 7147.9687,
+        "pct_negative": 0.0,
+        "pct_zero": 0.02
+      },
+      "solar_MW": {
+        "min": 0.0,
+        "max": 49713.875,
+        "p1": 0.0,
+        "p99": 42810.3893,
+        "pct_negative": 0.0,
+        "pct_zero": 27.83
+      },
+      "load_MW": {
+        "min": 33233.275,
+        "max": 75635.225,
+        "p1": 35497.1637,
+        "p99": 72168.358,
+        "pct_negative": 0.0,
+        "pct_zero": 0.0
+      },
+      "net_import_GW": {
+        "min": -35.515,
+        "max": 34.6037,
+        "p1": -24.105,
+        "p99": 27.2355,
+        "pct_negative": 33.21,
+        "pct_zero": 0.0
+      }
+    }
+  }
+}

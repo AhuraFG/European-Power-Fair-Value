@@ -1,0 +1,1584 @@
+{
+  "delivery_periods": {
+    "daily": {
+      "2025-10-01": {
+        "base_fc": 111.07,
+        "base_act": 116.57
+      },
+      "2025-10-02": {
+        "base_fc": 102.42,
+        "base_act": 102.7
+      },
+      "2025-10-03": {
+        "base_fc": 97.99,
+        "base_act": 66.76
+      },
+      "2025-10-04": {
+        "base_fc": 75.73,
+        "base_act": -0.29
+      },
+      "2025-10-05": {
+        "base_fc": 57.2,
+        "base_act": 1.73
+      },
+      "2025-10-06": {
+        "base_fc": 79.45,
+        "base_act": 86.18
+      },
+      "2025-10-07": {
+        "base_fc": 106.81,
+        "base_act": 137.96
+      },
+      "2025-10-08": {
+        "base_fc": 117.17,
+        "base_act": 117.58
+      },
+      "2025-10-09": {
+        "base_fc": 108.46,
+        "base_act": 104.91
+      },
+      "2025-10-10": {
+        "base_fc": 97.47,
+        "base_act": 96.41
+      },
+      "2025-10-11": {
+        "base_fc": 81.35,
+        "base_act": 90.69
+      },
+      "2025-10-12": {
+        "base_fc": 68.64,
+        "base_act": 89.19
+      },
+      "2025-10-13": {
+        "base_fc": 100.34,
+        "base_act": 139.05
+      },
+      "2025-10-14": {
+        "base_fc": 119.98,
+        "base_act": 156.14
+      },
+      "2025-10-15": {
+        "base_fc": 121.08,
+        "base_act": 145.72
+      },
+      "2025-10-16": {
+        "base_fc": 118.61,
+        "base_act": 100.0
+      },
+      "2025-10-17": {
+        "base_fc": 95.18,
+        "base_act": 104.41
+      },
+      "2025-10-18": {
+        "base_fc": 91.39,
+        "base_act": 95.74
+      },
+      "2025-10-19": {
+        "base_fc": 76.87,
+        "base_act": 75.35
+      },
+      "2025-10-20": {
+        "base_fc": 98.22,
+        "base_act": 82.26
+      },
+      "2025-10-21": {
+        "base_fc": 102.93,
+        "base_act": 67.81
+      },
+      "2025-10-22": {
+        "base_fc": 99.72,
+        "base_act": 125.07
+      },
+      "2025-10-23": {
+        "base_fc": 108.65,
+        "base_act": 82.27
+      },
+      "2025-10-24": {
+        "base_fc": 104.84,
+        "base_act": 32.32
+      },
+      "2025-10-25": {
+        "base_fc": 78.95,
+        "base_act": 11.22
+      },
+      "2025-10-26": {
+        "base_fc": 62.75,
+        "base_act": 6.52
+      },
+      "2025-10-27": {
+        "base_fc": 88.2,
+        "base_act": 68.4
+      },
+      "2025-10-28": {
+        "base_fc": 92.18,
+        "base_act": 66.67
+      },
+      "2025-10-29": {
+        "base_fc": 98.93,
+        "base_act": 87.72
+      },
+      "2025-10-30": {
+        "base_fc": 98.19,
+        "base_act": 69.41
+      },
+      "2025-10-31": {
+        "base_fc": 85.0,
+        "base_act": 93.24
+      },
+      "2025-11-01": {
+        "base_fc": 87.27,
+        "base_act": 47.63
+      },
+      "2025-11-02": {
+        "base_fc": 71.56,
+        "base_act": 85.91
+      },
+      "2025-11-03": {
+        "base_fc": 97.3,
+        "base_act": 78.29
+      },
+      "2025-11-04": {
+        "base_fc": 96.1,
+        "base_act": 73.55
+      },
+      "2025-11-05": {
+        "base_fc": 93.81,
+        "base_act": 93.43
+      },
+      "2025-11-06": {
+        "base_fc": 96.57,
+        "base_act": 106.21
+      },
+      "2025-11-07": {
+        "base_fc": 101.42,
+        "base_act": 110.8
+      },
+      "2025-11-08": {
+        "base_fc": 97.64,
+        "base_act": 106.46
+      },
+      "2025-11-09": {
+        "base_fc": 95.87,
+        "base_act": 99.0
+      },
+      "2025-11-10": {
+        "base_fc": 93.55,
+        "base_act": 109.89
+      },
+      "2025-11-11": {
+        "base_fc": 103.67,
+        "base_act": 96.89
+      },
+      "2025-11-12": {
+        "base_fc": 96.33,
+        "base_act": 80.32
+      },
+      "2025-11-13": {
+        "base_fc": 90.96,
+        "base_act": 69.85
+      },
+      "2025-11-14": {
+        "base_fc": 91.57,
+        "base_act": 106.73
+      },
+      "2025-11-15": {
+        "base_fc": 99.93,
+        "base_act": 90.7
+      },
+      "2025-11-16": {
+        "base_fc": 93.04,
+        "base_act": 101.44
+      },
+      "2025-11-17": {
+        "base_fc": 102.71,
+        "base_act": 94.71
+      },
+      "2025-11-18": {
+        "base_fc": 98.9,
+        "base_act": 101.97
+      },
+      "2025-11-19": {
+        "base_fc": 104.29,
+        "base_act": 102.53
+      },
+      "2025-11-20": {
+        "base_fc": 103.31,
+        "base_act": 125.99
+      },
+      "2025-11-21": {
+        "base_fc": 116.34,
+        "base_act": 146.48
+      },
+      "2025-11-22": {
+        "base_fc": 117.66,
+        "base_act": 91.25
+      },
+      "2025-11-23": {
+        "base_fc": 92.44,
+        "base_act": 71.43
+      },
+      "2025-11-24": {
+        "base_fc": 96.95,
+        "base_act": 132.36
+      },
+      "2025-11-25": {
+        "base_fc": 116.61,
+        "base_act": 220.52
+      },
+      "2025-11-26": {
+        "base_fc": 118.6,
+        "base_act": 161.52
+      },
+      "2025-11-27": {
+        "base_fc": 113.26,
+        "base_act": 91.18
+      },
+      "2025-11-28": {
+        "base_fc": 91.1,
+        "base_act": 85.05
+      },
+      "2025-11-29": {
+        "base_fc": 88.0,
+        "base_act": 90.19
+      },
+      "2025-11-30": {
+        "base_fc": 87.29,
+        "base_act": 84.15
+      },
+      "2025-12-01": {
+        "base_fc": 94.32,
+        "base_act": 93.43
+      },
+      "2025-12-02": {
+        "base_fc": 95.42,
+        "base_act": 100.37
+      },
+      "2025-12-03": {
+        "base_fc": 107.92,
+        "base_act": 164.81
+      },
+      "2025-12-04": {
+        "base_fc": 127.2,
+        "base_act": 124.86
+      },
+      "2025-12-05": {
+        "base_fc": 114.91,
+        "base_act": 133.29
+      },
+      "2025-12-06": {
+        "base_fc": 113.8,
+        "base_act": 79.61
+      },
+      "2025-12-07": {
+        "base_fc": 82.48,
+        "base_act": 80.39
+      },
+      "2025-12-08": {
+        "base_fc": 91.26,
+        "base_act": 70.64
+      },
+      "2025-12-09": {
+        "base_fc": 88.07,
+        "base_act": 91.57
+      },
+      "2025-12-10": {
+        "base_fc": 101.4,
+        "base_act": 78.5
+      },
+      "2025-12-11": {
+        "base_fc": 98.27,
+        "base_act": 94.46
+      },
+      "2025-12-12": {
+        "base_fc": 102.65,
+        "base_act": 113.44
+      },
+      "2025-12-13": {
+        "base_fc": 105.14,
+        "base_act": 95.92
+      },
+      "2025-12-14": {
+        "base_fc": 94.15,
+        "base_act": 86.21
+      },
+      "2025-12-15": {
+        "base_fc": 94.27,
+        "base_act": 87.4
+      },
+      "2025-12-16": {
+        "base_fc": 94.55,
+        "base_act": 106.74
+      },
+      "2025-12-17": {
+        "base_fc": 95.18,
+        "base_act": 106.4
+      },
+      "2025-12-18": {
+        "base_fc": 96.89,
+        "base_act": 74.22
+      },
+      "2025-12-19": {
+        "base_fc": 92.27,
+        "base_act": 70.07
+      },
+      "2025-12-20": {
+        "base_fc": 76.88,
+        "base_act": 103.06
+      },
+      "2025-12-21": {
+        "base_fc": 91.71,
+        "base_act": 91.57
+      },
+      "2025-12-22": {
+        "base_fc": 93.18,
+        "base_act": 85.55
+      },
+      "2025-12-23": {
+        "base_fc": 98.58,
+        "base_act": 74.73
+      },
+      "2025-12-24": {
+        "base_fc": 99.25,
+        "base_act": 69.38
+      },
+      "2025-12-25": {
+        "base_fc": 87.9,
+        "base_act": 69.75
+      },
+      "2025-12-26": {
+        "base_fc": 89.51,
+        "base_act": 97.53
+      },
+      "2025-12-27": {
+        "base_fc": 94.46,
+        "base_act": 91.44
+      },
+      "2025-12-28": {
+        "base_fc": 91.75,
+        "base_act": 92.77
+      },
+      "2025-12-29": {
+        "base_fc": 93.56,
+        "base_act": 94.35
+      },
+      "2025-12-30": {
+        "base_fc": 99.47,
+        "base_act": 87.76
+      },
+      "2025-12-31": {
+        "base_fc": 91.53,
+        "base_act": 87.31
+      }
+    },
+    "monthly": {
+      "10": {
+        "base_fc": 94.98,
+        "base_act": 84.4
+      },
+      "11": {
+        "base_fc": 98.47,
+        "base_act": 101.88
+      },
+      "12": {
+        "base_fc": 96.71,
+        "base_act": 93.47
+      }
+    }
+  },
+  "uncertainty_bands": {
+    "2025-10-03": {
+      "P10": 81.89,
+      "P90": 114.06
+    },
+    "2025-10-04": {
+      "P10": 43.59,
+      "P90": 85.92
+    },
+    "2025-10-05": {
+      "P10": -28.19,
+      "P90": 64.64
+    },
+    "2025-10-06": {
+      "P10": -4.39,
+      "P90": 83.57
+    },
+    "2025-10-07": {
+      "P10": 27.6,
+      "P90": 124.95
+    },
+    "2025-10-08": {
+      "P10": 43.87,
+      "P90": 147.59
+    },
+    "2025-10-09": {
+      "P10": 39.02,
+      "P90": 135.68
+    },
+    "2025-10-10": {
+      "P10": 32.37,
+      "P90": 121.39
+    },
+    "2025-10-11": {
+      "P10": 17.38,
+      "P90": 103.92
+    },
+    "2025-10-12": {
+      "P10": 6.61,
+      "P90": 88.99
+    },
+    "2025-10-13": {
+      "P10": 40.1,
+      "P90": 123.51
+    },
+    "2025-10-14": {
+      "P10": 60.76,
+      "P90": 149.14
+    },
+    "2025-10-15": {
+      "P10": 65.3,
+      "P90": 153.91
+    },
+    "2025-10-16": {
+      "P10": 64.41,
+      "P90": 154.8
+    },
+    "2025-10-17": {
+      "P10": 43.25,
+      "P90": 128.39
+    },
+    "2025-10-18": {
+      "P10": 40.99,
+      "P90": 123.76
+    },
+    "2025-10-19": {
+      "P10": 28.55,
+      "P90": 106.18
+    },
+    "2025-10-20": {
+      "P10": 52.13,
+      "P90": 126.2
+    },
+    "2025-10-21": {
+      "P10": 60.03,
+      "P90": 129.7
+    },
+    "2025-10-22": {
+      "P10": 53.27,
+      "P90": 123.81
+    },
+    "2025-10-23": {
+      "P10": 62.94,
+      "P90": 135.53
+    },
+    "2025-10-24": {
+      "P10": 58.56,
+      "P90": 129.24
+    },
+    "2025-10-25": {
+      "P10": 23.09,
+      "P90": 102.54
+    },
+    "2025-10-26": {
+      "P10": 0.58,
+      "P90": 85.48
+    },
+    "2025-10-27": {
+      "P10": 24.63,
+      "P90": 110.49
+    },
+    "2025-10-28": {
+      "P10": 28.14,
+      "P90": 114.52
+    },
+    "2025-10-29": {
+      "P10": 35.06,
+      "P90": 120.93
+    },
+    "2025-10-30": {
+      "P10": 34.99,
+      "P90": 119.21
+    },
+    "2025-10-31": {
+      "P10": 21.54,
+      "P90": 105.75
+    },
+    "2025-11-01": {
+      "P10": 23.81,
+      "P90": 109.34
+    },
+    "2025-11-02": {
+      "P10": 7.52,
+      "P90": 93.36
+    },
+    "2025-11-03": {
+      "P10": 33.61,
+      "P90": 121.11
+    },
+    "2025-11-04": {
+      "P10": 36.1,
+      "P90": 119.91
+    },
+    "2025-11-05": {
+      "P10": 35.34,
+      "P90": 117.62
+    },
+    "2025-11-06": {
+      "P10": 38.1,
+      "P90": 118.38
+    },
+    "2025-11-07": {
+      "P10": 42.95,
+      "P90": 122.06
+    },
+    "2025-11-08": {
+      "P10": 39.17,
+      "P90": 118.28
+    },
+    "2025-11-09": {
+      "P10": 37.4,
+      "P90": 116.76
+    },
+    "2025-11-10": {
+      "P10": 35.07,
+      "P90": 114.44
+    },
+    "2025-11-11": {
+      "P10": 45.2,
+      "P90": 126.02
+    },
+    "2025-11-12": {
+      "P10": 37.86,
+      "P90": 117.76
+    },
+    "2025-11-13": {
+      "P10": 32.48,
+      "P90": 110.69
+    },
+    "2025-11-14": {
+      "P10": 31.59,
+      "P90": 110.98
+    },
+    "2025-11-15": {
+      "P10": 39.95,
+      "P90": 120.36
+    },
+    "2025-11-16": {
+      "P10": 33.06,
+      "P90": 113.47
+    },
+    "2025-11-17": {
+      "P10": 42.73,
+      "P90": 122.62
+    },
+    "2025-11-18": {
+      "P10": 38.92,
+      "P90": 119.33
+    },
+    "2025-11-19": {
+      "P10": 44.31,
+      "P90": 124.84
+    },
+    "2025-11-20": {
+      "P10": 43.34,
+      "P90": 123.87
+    },
+    "2025-11-21": {
+      "P10": 57.49,
+      "P90": 138.68
+    },
+    "2025-11-22": {
+      "P10": 58.81,
+      "P90": 141.1
+    },
+    "2025-11-23": {
+      "P10": 33.97,
+      "P90": 115.88
+    },
+    "2025-11-24": {
+      "P10": 50.67,
+      "P90": 120.39
+    },
+    "2025-11-25": {
+      "P10": 78.38,
+      "P90": 142.94
+    },
+    "2025-11-26": {
+      "P10": 87.59,
+      "P90": 147.81
+    },
+    "2025-11-27": {
+      "P10": 82.93,
+      "P90": 147.85
+    },
+    "2025-11-28": {
+      "P10": 60.5,
+      "P90": 125.69
+    },
+    "2025-11-29": {
+      "P10": 57.06,
+      "P90": 122.59
+    },
+    "2025-11-30": {
+      "P10": 58.58,
+      "P90": 121.88
+    },
+    "2025-12-01": {
+      "P10": 65.86,
+      "P90": 126.18
+    },
+    "2025-12-02": {
+      "P10": 70.42,
+      "P90": 128.38
+    },
+    "2025-12-03": {
+      "P10": 82.16,
+      "P90": 141.21
+    },
+    "2025-12-04": {
+      "P10": 102.22,
+      "P90": 166.19
+    },
+    "2025-12-05": {
+      "P10": 91.77,
+      "P90": 153.9
+    },
+    "2025-12-06": {
+      "P10": 90.66,
+      "P90": 154.55
+    },
+    "2025-12-07": {
+      "P10": 56.87,
+      "P90": 123.23
+    },
+    "2025-12-08": {
+      "P10": 65.55,
+      "P90": 131.56
+    },
+    "2025-12-09": {
+      "P10": 60.78,
+      "P90": 128.38
+    },
+    "2025-12-10": {
+      "P10": 73.43,
+      "P90": 141.71
+    },
+    "2025-12-11": {
+      "P10": 68.2,
+      "P90": 137.77
+    },
+    "2025-12-12": {
+      "P10": 72.58,
+      "P90": 142.15
+    },
+    "2025-12-13": {
+      "P10": 75.07,
+      "P90": 144.64
+    },
+    "2025-12-14": {
+      "P10": 66.62,
+      "P90": 133.64
+    },
+    "2025-12-15": {
+      "P10": 66.75,
+      "P90": 133.77
+    },
+    "2025-12-16": {
+      "P10": 67.38,
+      "P90": 134.05
+    },
+    "2025-12-17": {
+      "P10": 68.0,
+      "P90": 136.4
+    },
+    "2025-12-18": {
+      "P10": 69.72,
+      "P90": 138.48
+    },
+    "2025-12-19": {
+      "P10": 64.08,
+      "P90": 133.87
+    },
+    "2025-12-20": {
+      "P10": 46.8,
+      "P90": 118.47
+    },
+    "2025-12-21": {
+      "P10": 61.63,
+      "P90": 134.01
+    },
+    "2025-12-22": {
+      "P10": 63.1,
+      "P90": 133.1
+    },
+    "2025-12-23": {
+      "P10": 71.46,
+      "P90": 138.51
+    },
+    "2025-12-24": {
+      "P10": 71.47,
+      "P90": 139.17
+    },
+    "2025-12-25": {
+      "P10": 57.04,
+      "P90": 122.19
+    },
+    "2025-12-26": {
+      "P10": 57.57,
+      "P90": 115.83
+    },
+    "2025-12-27": {
+      "P10": 62.53,
+      "P90": 116.23
+    },
+    "2025-12-28": {
+      "P10": 61.52,
+      "P90": 113.52
+    },
+    "2025-12-29": {
+      "P10": 64.32,
+      "P90": 115.33
+    },
+    "2025-12-30": {
+      "P10": 70.23,
+      "P90": 121.24
+    },
+    "2025-12-31": {
+      "P10": 62.29,
+      "P90": 113.3
+    }
+  },
+  "signals": [
+    {
+      "date": "2025-10-02",
+      "signal": "NEUTRAL",
+      "forecast": 102.42,
+      "anchor": 116.57,
+      "actual": 102.7,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-10-03",
+      "signal": "NEUTRAL",
+      "forecast": 97.99,
+      "anchor": 102.7,
+      "actual": 66.76,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-10-04",
+      "signal": "NEUTRAL",
+      "forecast": 75.73,
+      "anchor": 66.76,
+      "actual": -0.29,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-10-05",
+      "signal": "BUY",
+      "forecast": 57.2,
+      "anchor": -0.29,
+      "actual": 1.73,
+      "correct": "True",
+      "pnl": 2.02
+    },
+    {
+      "date": "2025-10-06",
+      "signal": "BUY",
+      "forecast": 79.45,
+      "anchor": 1.73,
+      "actual": 86.18,
+      "correct": "True",
+      "pnl": 84.45
+    },
+    {
+      "date": "2025-10-07",
+      "signal": "BUY",
+      "forecast": 106.81,
+      "anchor": 86.18,
+      "actual": 137.96,
+      "correct": "True",
+      "pnl": 51.78
+    },
+    {
+      "date": "2025-10-08",
+      "signal": "NEUTRAL",
+      "forecast": 117.17,
+      "anchor": 137.96,
+      "actual": 117.58,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-10-09",
+      "signal": "NEUTRAL",
+      "forecast": 108.46,
+      "anchor": 117.58,
+      "actual": 104.91,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-10-10",
+      "signal": "NEUTRAL",
+      "forecast": 97.47,
+      "anchor": 104.91,
+      "actual": 96.41,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-10-11",
+      "signal": "NEUTRAL",
+      "forecast": 81.35,
+      "anchor": 96.41,
+      "actual": 90.69,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-10-12",
+      "signal": "SELL",
+      "forecast": 68.64,
+      "anchor": 90.69,
+      "actual": 89.19,
+      "correct": "True",
+      "pnl": 1.5
+    },
+    {
+      "date": "2025-10-13",
+      "signal": "BUY",
+      "forecast": 100.34,
+      "anchor": 89.19,
+      "actual": 139.05,
+      "correct": "True",
+      "pnl": 49.86
+    },
+    {
+      "date": "2025-10-14",
+      "signal": "NEUTRAL",
+      "forecast": 119.98,
+      "anchor": 139.05,
+      "actual": 156.14,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-10-15",
+      "signal": "NEUTRAL",
+      "forecast": 121.08,
+      "anchor": 156.14,
+      "actual": 145.72,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-10-16",
+      "signal": "NEUTRAL",
+      "forecast": 118.61,
+      "anchor": 145.72,
+      "actual": 100.0,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-10-17",
+      "signal": "NEUTRAL",
+      "forecast": 95.18,
+      "anchor": 100.0,
+      "actual": 104.41,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-10-18",
+      "signal": "NEUTRAL",
+      "forecast": 91.39,
+      "anchor": 104.41,
+      "actual": 95.74,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-10-19",
+      "signal": "SELL",
+      "forecast": 76.87,
+      "anchor": 95.74,
+      "actual": 75.35,
+      "correct": "True",
+      "pnl": 20.39
+    },
+    {
+      "date": "2025-10-20",
+      "signal": "BUY",
+      "forecast": 98.22,
+      "anchor": 75.35,
+      "actual": 82.26,
+      "correct": "True",
+      "pnl": 6.91
+    },
+    {
+      "date": "2025-10-21",
+      "signal": "BUY",
+      "forecast": 102.93,
+      "anchor": 82.26,
+      "actual": 67.81,
+      "correct": false,
+      "pnl": -14.46
+    },
+    {
+      "date": "2025-10-22",
+      "signal": "BUY",
+      "forecast": 99.72,
+      "anchor": 67.81,
+      "actual": 125.07,
+      "correct": "True",
+      "pnl": 57.26
+    },
+    {
+      "date": "2025-10-23",
+      "signal": "NEUTRAL",
+      "forecast": 108.65,
+      "anchor": 125.07,
+      "actual": 82.27,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-10-24",
+      "signal": "BUY",
+      "forecast": 104.84,
+      "anchor": 82.27,
+      "actual": 32.32,
+      "correct": false,
+      "pnl": -49.95
+    },
+    {
+      "date": "2025-10-25",
+      "signal": "BUY",
+      "forecast": 78.95,
+      "anchor": 32.32,
+      "actual": 11.22,
+      "correct": false,
+      "pnl": -21.1
+    },
+    {
+      "date": "2025-10-26",
+      "signal": "BUY",
+      "forecast": 62.75,
+      "anchor": 11.22,
+      "actual": 6.52,
+      "correct": false,
+      "pnl": -4.7
+    },
+    {
+      "date": "2025-10-27",
+      "signal": "BUY",
+      "forecast": 88.2,
+      "anchor": 6.52,
+      "actual": 68.4,
+      "correct": "True",
+      "pnl": 61.89
+    },
+    {
+      "date": "2025-10-28",
+      "signal": "BUY",
+      "forecast": 92.18,
+      "anchor": 68.4,
+      "actual": 66.67,
+      "correct": false,
+      "pnl": -1.73
+    },
+    {
+      "date": "2025-10-29",
+      "signal": "BUY",
+      "forecast": 98.93,
+      "anchor": 66.67,
+      "actual": 87.72,
+      "correct": "True",
+      "pnl": 21.04
+    },
+    {
+      "date": "2025-10-30",
+      "signal": "BUY",
+      "forecast": 98.19,
+      "anchor": 87.72,
+      "actual": 69.41,
+      "correct": false,
+      "pnl": -18.31
+    },
+    {
+      "date": "2025-10-31",
+      "signal": "NEUTRAL",
+      "forecast": 85.0,
+      "anchor": 69.41,
+      "actual": 93.24,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-11-01",
+      "signal": "NEUTRAL",
+      "forecast": 87.27,
+      "anchor": 93.24,
+      "actual": 47.63,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-11-02",
+      "signal": "BUY",
+      "forecast": 71.56,
+      "anchor": 47.63,
+      "actual": 85.91,
+      "correct": "True",
+      "pnl": 38.28
+    },
+    {
+      "date": "2025-11-03",
+      "signal": "BUY",
+      "forecast": 97.3,
+      "anchor": 85.91,
+      "actual": 78.29,
+      "correct": false,
+      "pnl": -7.62
+    },
+    {
+      "date": "2025-11-04",
+      "signal": "BUY",
+      "forecast": 96.1,
+      "anchor": 78.29,
+      "actual": 73.55,
+      "correct": false,
+      "pnl": -4.74
+    },
+    {
+      "date": "2025-11-05",
+      "signal": "BUY",
+      "forecast": 93.81,
+      "anchor": 73.55,
+      "actual": 93.43,
+      "correct": "True",
+      "pnl": 19.87
+    },
+    {
+      "date": "2025-11-06",
+      "signal": "NEUTRAL",
+      "forecast": 96.57,
+      "anchor": 93.43,
+      "actual": 106.21,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-11-07",
+      "signal": "NEUTRAL",
+      "forecast": 101.42,
+      "anchor": 106.21,
+      "actual": 110.8,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-11-08",
+      "signal": "NEUTRAL",
+      "forecast": 97.64,
+      "anchor": 110.8,
+      "actual": 106.46,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-11-09",
+      "signal": "NEUTRAL",
+      "forecast": 95.87,
+      "anchor": 106.46,
+      "actual": 99.0,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-11-10",
+      "signal": "NEUTRAL",
+      "forecast": 93.55,
+      "anchor": 99.0,
+      "actual": 109.89,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-11-11",
+      "signal": "NEUTRAL",
+      "forecast": 103.67,
+      "anchor": 109.89,
+      "actual": 96.89,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-11-12",
+      "signal": "NEUTRAL",
+      "forecast": 96.33,
+      "anchor": 96.89,
+      "actual": 80.32,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-11-13",
+      "signal": "BUY",
+      "forecast": 90.96,
+      "anchor": 80.32,
+      "actual": 69.85,
+      "correct": false,
+      "pnl": -10.48
+    },
+    {
+      "date": "2025-11-14",
+      "signal": "BUY",
+      "forecast": 91.57,
+      "anchor": 69.85,
+      "actual": 106.73,
+      "correct": "True",
+      "pnl": 36.89
+    },
+    {
+      "date": "2025-11-15",
+      "signal": "NEUTRAL",
+      "forecast": 99.93,
+      "anchor": 106.73,
+      "actual": 90.7,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-11-16",
+      "signal": "NEUTRAL",
+      "forecast": 93.04,
+      "anchor": 90.7,
+      "actual": 101.44,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-11-17",
+      "signal": "BUY",
+      "forecast": 102.71,
+      "anchor": 101.44,
+      "actual": 94.71,
+      "correct": false,
+      "pnl": -6.72
+    },
+    {
+      "date": "2025-11-18",
+      "signal": "BUY",
+      "forecast": 98.9,
+      "anchor": 94.71,
+      "actual": 101.97,
+      "correct": "True",
+      "pnl": 7.25
+    },
+    {
+      "date": "2025-11-19",
+      "signal": "NEUTRAL",
+      "forecast": 104.29,
+      "anchor": 101.97,
+      "actual": 102.53,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-11-20",
+      "signal": "NEUTRAL",
+      "forecast": 103.31,
+      "anchor": 102.53,
+      "actual": 125.99,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-11-21",
+      "signal": "NEUTRAL",
+      "forecast": 116.34,
+      "anchor": 125.99,
+      "actual": 146.48,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-11-22",
+      "signal": "NEUTRAL",
+      "forecast": 117.66,
+      "anchor": 146.48,
+      "actual": 91.25,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-11-23",
+      "signal": "NEUTRAL",
+      "forecast": 92.44,
+      "anchor": 91.25,
+      "actual": 71.43,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-11-24",
+      "signal": "BUY",
+      "forecast": 96.95,
+      "anchor": 71.43,
+      "actual": 132.36,
+      "correct": "True",
+      "pnl": 60.94
+    },
+    {
+      "date": "2025-11-25",
+      "signal": "NEUTRAL",
+      "forecast": 116.61,
+      "anchor": 132.36,
+      "actual": 220.52,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-11-26",
+      "signal": "NEUTRAL",
+      "forecast": 118.6,
+      "anchor": 220.52,
+      "actual": 161.52,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-11-27",
+      "signal": "NEUTRAL",
+      "forecast": 113.26,
+      "anchor": 161.52,
+      "actual": 91.18,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-11-28",
+      "signal": "NEUTRAL",
+      "forecast": 91.1,
+      "anchor": 91.18,
+      "actual": 85.05,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-11-29",
+      "signal": "NEUTRAL",
+      "forecast": 88.0,
+      "anchor": 85.05,
+      "actual": 90.19,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-11-30",
+      "signal": "NEUTRAL",
+      "forecast": 87.29,
+      "anchor": 90.19,
+      "actual": 84.15,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-12-01",
+      "signal": "BUY",
+      "forecast": 94.32,
+      "anchor": 84.15,
+      "actual": 93.43,
+      "correct": "True",
+      "pnl": 9.28
+    },
+    {
+      "date": "2025-12-02",
+      "signal": "BUY",
+      "forecast": 95.42,
+      "anchor": 93.43,
+      "actual": 100.37,
+      "correct": "True",
+      "pnl": 6.94
+    },
+    {
+      "date": "2025-12-03",
+      "signal": "BUY",
+      "forecast": 107.92,
+      "anchor": 100.37,
+      "actual": 164.81,
+      "correct": "True",
+      "pnl": 64.44
+    },
+    {
+      "date": "2025-12-04",
+      "signal": "NEUTRAL",
+      "forecast": 127.2,
+      "anchor": 164.81,
+      "actual": 124.86,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-12-05",
+      "signal": "NEUTRAL",
+      "forecast": 114.91,
+      "anchor": 124.86,
+      "actual": 133.29,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-12-06",
+      "signal": "NEUTRAL",
+      "forecast": 113.8,
+      "anchor": 133.29,
+      "actual": 79.61,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-12-07",
+      "signal": "BUY",
+      "forecast": 82.48,
+      "anchor": 79.61,
+      "actual": 80.39,
+      "correct": "True",
+      "pnl": 0.78
+    },
+    {
+      "date": "2025-12-08",
+      "signal": "BUY",
+      "forecast": 91.26,
+      "anchor": 80.39,
+      "actual": 70.64,
+      "correct": false,
+      "pnl": -9.76
+    },
+    {
+      "date": "2025-12-09",
+      "signal": "BUY",
+      "forecast": 88.07,
+      "anchor": 70.64,
+      "actual": 91.57,
+      "correct": "True",
+      "pnl": 20.94
+    },
+    {
+      "date": "2025-12-10",
+      "signal": "BUY",
+      "forecast": 101.4,
+      "anchor": 91.57,
+      "actual": 78.5,
+      "correct": false,
+      "pnl": -13.07
+    },
+    {
+      "date": "2025-12-11",
+      "signal": "BUY",
+      "forecast": 98.27,
+      "anchor": 78.5,
+      "actual": 94.46,
+      "correct": "True",
+      "pnl": 15.95
+    },
+    {
+      "date": "2025-12-12",
+      "signal": "BUY",
+      "forecast": 102.65,
+      "anchor": 94.46,
+      "actual": 113.44,
+      "correct": "True",
+      "pnl": 18.99
+    },
+    {
+      "date": "2025-12-13",
+      "signal": "NEUTRAL",
+      "forecast": 105.14,
+      "anchor": 113.44,
+      "actual": 95.92,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-12-14",
+      "signal": "NEUTRAL",
+      "forecast": 94.15,
+      "anchor": 95.92,
+      "actual": 86.21,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-12-15",
+      "signal": "BUY",
+      "forecast": 94.27,
+      "anchor": 86.21,
+      "actual": 87.4,
+      "correct": "True",
+      "pnl": 1.19
+    },
+    {
+      "date": "2025-12-16",
+      "signal": "BUY",
+      "forecast": 94.55,
+      "anchor": 87.4,
+      "actual": 106.74,
+      "correct": "True",
+      "pnl": 19.34
+    },
+    {
+      "date": "2025-12-17",
+      "signal": "NEUTRAL",
+      "forecast": 95.18,
+      "anchor": 106.74,
+      "actual": 106.4,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-12-18",
+      "signal": "NEUTRAL",
+      "forecast": 96.89,
+      "anchor": 106.4,
+      "actual": 74.22,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-12-19",
+      "signal": "BUY",
+      "forecast": 92.27,
+      "anchor": 74.22,
+      "actual": 70.07,
+      "correct": false,
+      "pnl": -4.15
+    },
+    {
+      "date": "2025-12-20",
+      "signal": "BUY",
+      "forecast": 76.88,
+      "anchor": 70.07,
+      "actual": 103.06,
+      "correct": "True",
+      "pnl": 32.99
+    },
+    {
+      "date": "2025-12-21",
+      "signal": "NEUTRAL",
+      "forecast": 91.71,
+      "anchor": 103.06,
+      "actual": 91.57,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-12-22",
+      "signal": "NEUTRAL",
+      "forecast": 93.18,
+      "anchor": 91.57,
+      "actual": 85.55,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-12-23",
+      "signal": "BUY",
+      "forecast": 98.58,
+      "anchor": 85.55,
+      "actual": 74.73,
+      "correct": false,
+      "pnl": -10.82
+    },
+    {
+      "date": "2025-12-24",
+      "signal": "BUY",
+      "forecast": 99.25,
+      "anchor": 74.73,
+      "actual": 69.38,
+      "correct": false,
+      "pnl": -5.35
+    },
+    {
+      "date": "2025-12-25",
+      "signal": "BUY",
+      "forecast": 87.9,
+      "anchor": 69.38,
+      "actual": 69.75,
+      "correct": "True",
+      "pnl": 0.37
+    },
+    {
+      "date": "2025-12-26",
+      "signal": "BUY",
+      "forecast": 89.51,
+      "anchor": 69.75,
+      "actual": 97.53,
+      "correct": "True",
+      "pnl": 27.78
+    },
+    {
+      "date": "2025-12-27",
+      "signal": "NEUTRAL",
+      "forecast": 94.46,
+      "anchor": 97.53,
+      "actual": 91.44,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-12-28",
+      "signal": "NEUTRAL",
+      "forecast": 91.75,
+      "anchor": 91.44,
+      "actual": 92.77,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-12-29",
+      "signal": "NEUTRAL",
+      "forecast": 93.56,
+      "anchor": 92.77,
+      "actual": 94.35,
+      "correct": null,
+      "pnl": null
+    },
+    {
+      "date": "2025-12-30",
+      "signal": "BUY",
+      "forecast": 99.47,
+      "anchor": 94.35,
+      "actual": 87.76,
+      "correct": false,
+      "pnl": -6.59
+    },
+    {
+      "date": "2025-12-31",
+      "signal": "NEUTRAL",
+      "forecast": 91.53,
+      "anchor": 87.76,
+      "actual": 87.31,
+      "correct": null,
+      "pnl": null
+    }
+  ],
+  "signal_performance": {
+    "directed": 43,
+    "correct": 27,
+    "hit_rate": 62.8
+  },
+  "forward_expected_averages": {
+    "next_day_expected_avg": 96.84,
+    "next_day_date": "2026-01-01",
+    "next_week_expected_avg": 92.6,
+    "next_week_dates": "2025-12-25 to 2025-12-31",
+    "next_month_expected_avg": 96.71,
+    "next_month_label": "2025-12"
+  }
+}

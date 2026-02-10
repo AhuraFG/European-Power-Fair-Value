@@ -1,0 +1,4 @@
+- The dataset contains 8760 rows, with no missing or duplicate entries and all timestamps present.
+- Price volatility (std) was 15.08 in the window from 2025-12-25 to 2025-12-31, a decrease of -33.2% compared to the prior window from 2025-12-18 to 2025-12-24.
+- 6.6% of price changes were negative, and 1.26% of prices were considered outliers.
+- The dataset includes Daylight Saving Time adjustments on 2025-03-30 and 2025-10-26.

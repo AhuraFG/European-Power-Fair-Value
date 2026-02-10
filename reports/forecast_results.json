@@ -1,0 +1,48 @@
+{
+  "test_period": {
+    "start": "2025-10-01",
+    "end": "2025-12-31"
+  },
+  "metrics": {
+    "Seasonal Naive": {
+      "overall": {
+        "MAE": 34.75,
+        "RMSE": 51.48,
+        "bias": 0.89
+      },
+      "tail_MAE": 85.46
+    },
+    "Ridge Regression": {
+      "overall": {
+        "MAE": 24.68,
+        "RMSE": 34.21,
+        "bias": 6.88
+      },
+      "tail_MAE": 61.47
+    },
+    "Random Forest": {
+      "overall": {
+        "MAE": 25.16,
+        "RMSE": 35.19,
+        "bias": 0.53
+      },
+      "tail_MAE": 65.24
+    },
+    "LightGBM": {
+      "overall": {
+        "MAE": 22.55,
+        "RMSE": 35.43,
+        "bias": 3.55
+      },
+      "tail_MAE": 77.64
+    }
+  },
+  "forward_expected_averages": {
+    "next_day_expected_avg": 96.84,
+    "next_day_date": "2026-01-01",
+    "next_week_expected_avg": 92.6,
+    "next_week_dates": "2025-12-25 to 2025-12-31",
+    "next_month_expected_avg": 96.71,
+    "next_month_label": "2025-12"
+  }
+}

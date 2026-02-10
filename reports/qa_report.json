@@ -1,0 +1,91 @@
+{
+  "rows": 8760,
+  "missingness": {
+    "timestamp_berlin": {
+      "missing": 0,
+      "pct": 0.0
+    },
+    "price_eur_mwh": {
+      "missing": 0,
+      "pct": 0.0
+    },
+    "wind_onshore_MW": {
+      "missing": 0,
+      "pct": 0.0
+    },
+    "wind_offshore_MW": {
+      "missing": 0,
+      "pct": 0.0
+    },
+    "solar_MW": {
+      "missing": 0,
+      "pct": 0.0
+    },
+    "load_MW": {
+      "missing": 0,
+      "pct": 0.0
+    },
+    "net_import_GW": {
+      "missing": 0,
+      "pct": 0.0
+    }
+  },
+  "duplicates": 0,
+  "expected_hours": 8760,
+  "actual_hours": 8760,
+  "missing_hours": 0,
+  "monthly": {
+    "2024-12": 1,
+    "2025-01": 744,
+    "2025-02": 672,
+    "2025-03": 744,
+    "2025-04": 720,
+    "2025-05": 744,
+    "2025-06": 720,
+    "2025-07": 744,
+    "2025-08": 744,
+    "2025-09": 720,
+    "2025-10": 744,
+    "2025-11": 720,
+    "2025-12": 743
+  },
+  "outliers": {
+    "price_eur_mwh": {
+      "n_outliers": 110,
+      "pct": 1.26,
+      "n_negative": 576
+    },
+    "wind_onshore_MW": {
+      "n_outliers": 0,
+      "pct": 0.0
+    },
+    "wind_offshore_MW": {
+      "n_outliers": 0,
+      "pct": 0.0
+    },
+    "solar_MW": {
+      "n_outliers": 0,
+      "pct": 0.0
+    },
+    "load_MW": {
+      "n_outliers": 0,
+      "pct": 0.0
+    },
+    "net_import_GW": {
+      "n_outliers": 0,
+      "pct": 0.0
+    }
+  },
+  "dst": [
+    {
+      "date": "2025-03-30",
+      "hours": 23,
+      "ok": true
+    },
+    {
+      "date": "2025-10-26",
+      "hours": 25,
+      "ok": true
+    }
+  ]
+}
